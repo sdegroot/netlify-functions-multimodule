@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "echo 'build'"
+    "build": "mkdir dist && cp src/index.html dist/index.html"
   },
   "dependencies": {
     "api": "1.0.0"
