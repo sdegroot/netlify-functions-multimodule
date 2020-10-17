@@ -1,0 +1,10 @@
+{
+  "name": "functions-lib",
+  "private": true,
+  "version": "1.0.0",
+  "main": "src/lib.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "/usr/bin/true"
+  }
+}

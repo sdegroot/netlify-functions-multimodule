@@ -1,0 +1,9 @@
+{
+  "name": "functions",
+  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "/usr/bin/true"
+  }
+}

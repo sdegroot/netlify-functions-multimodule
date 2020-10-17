@@ -1,0 +1,15 @@
+{
+  "name": "netlify-functions-multimodule",
+  "private": true,
+  "workspaces": [
+    "api",
+    "web",
+    "functions-lib",
+    "functions"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sdegroot/netlify-functions-multimodule.git",
+  "author": "Sander de Groot <sander@degroot.dev>",
+  "license": "MIT"
+}

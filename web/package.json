@@ -1,0 +1,16 @@
+{
+  "name": "web",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "/usr/bin/true"
+  },
+  "dependencies": {
+    "api": "1.0.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
