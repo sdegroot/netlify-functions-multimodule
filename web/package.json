@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "/usr/bin/true"
+    "build": "echo 'build'"
   },
   "dependencies": {
     "api": "1.0.0"
